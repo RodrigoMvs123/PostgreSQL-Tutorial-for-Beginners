@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=SpfIwlAYaKk
 
 https://raw.githubusercontent.com/RodrigoMvs123/PostgreSQL-Tutorial-for-Beginners/main/README.md
 
-
+https://github.com/RodrigoMvs123/PostgreSQL-Tutorial-for-Beginners/blame/main/README.md
 
 Step 1 
 Download and install PostgreSQL 
