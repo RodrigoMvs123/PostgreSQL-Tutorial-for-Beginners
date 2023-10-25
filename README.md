@@ -2,7 +2,7 @@
 
 https://www.youtube.com/watch?v=SpfIwlAYaKk 
 
-
+https://raw.githubusercontent.com/RodrigoMvs123/PostgreSQL-Tutorial-for-Beginners/main/README.md
 
 
 
